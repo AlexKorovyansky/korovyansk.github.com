@@ -1,9 +1,0 @@
----
-layout: post
-title: "test2"
-date: 2013-04-08 00:35
-comments: true
-categories: 
----
-
-Раз, два, три.
