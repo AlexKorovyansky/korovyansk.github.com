@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Омск | Alex Korovyansky]]></title>
+  <link href="http://korovyansk.github.com/blog/categories/omsk/atom.xml" rel="self"/>
+  <link href="http://korovyansk.github.com/"/>
+  <updated>2013-06-05T23:29:45+07:00</updated>
+  <id>http://korovyansk.github.com/</id>
+  <author>
+    <name><![CDATA[Алексей Коровянский]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[EcaHack 2013]]></title>
+    <link href="http://korovyansk.github.com/blog/2013/04/27/ecahack2013/"/>
+    <updated>2013-04-27T21:48:00+07:00</updated>
+    <id>http://korovyansk.github.com/blog/2013/04/27/ecahack2013</id>
+    <content type="html"><![CDATA[<p>В прошлые выходные (20-21 апреля) я участвовал в <a href="http://blog.gdgomsk.org/2013/03/omsk-ecahack-2013-android.html">EcaHack Omsk</a>.</p>
+
+<p><img class="center" src="/images/posts/IMG_17800.jpg" title="EcaHack - Наша команда M-Block: Костя, я, Паша" ></p>
+
+<p>За два дня хакатона наша команда (в составе: меня, Паши Сумарокова и Кости Драволина) сделала первый прототип биометрической системы доступа M-Block, включающий базовую версию Android клиента, замка на Raspberry и серверной части на Django. Верификация пользователя в прототипе делается только по голосу.</p>
+
+<!-- more -->
+
+
+<p>Хакатон позволил сделать нам серьезный шаг вперед в разработке и понимании нашего проекта, btw, на мой взгляд, это самый лучший формат для быстрого старта в каком-либо проекте.</p>
+
+<p>Еще один очень важный момент, на EcaHack мы получили фидбэк, идеи и мнения других людей о нашем проекте. Теперь я намного лучше понимаю, что нужно учитывать при дальнейшем проектировании и реализации системы.</p>
+
+<p><img class="center" src="/images/posts/Ns7tI0qRYO4.jpg" title="EcaHack Omsk 2013" ></p>
+
+<p>Про сам хакатон стоит сказать, что лейтмотивом мероприятия стали городские проекты! Было не очень много команд, но все они делали классные проекты со смыслом и пользой для нашего города. Особенно мне понравились приложения <a href="https://play.google.com/store/apps/details?id=com.wwmteam.wwm">We Want Metro</a> (в поддержку строительства в Омске метро), <a href="https://play.google.com/store/apps/details?id=com.ecahack.fanburst">Fan Burst!</a> (приложение для болельщиков ВК &#171;Омичка&#187;) и пуш-нотификатор о новостях ЖКХ.</p>
+
+<p>На презентации проектов присутствовали представители айти отдела муниципалитета, блоггеры и участники омских общественных движений. Поэтому практически каждый проект вызывал активную и продуктивную дискуссию.</p>
+
+<p>В сумме, несмотря на усталось и 13 рабочих дней подряд, впечатления и настроение от мероприятия осталось очень хорошее! Надеюсь, подобные мероприятия будут проводиться и дальше!</p>
+
+<p><strong>P.S.</strong> Кстати, мы заняли второе место, но это не очень важно. Официальные итоги хакатона можно прочитать <a href="http://blog.gdgomsk.org/2013/04/summary-of-ecahack-omsk-2013.html">тут</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
