@@ -3,7 +3,7 @@ layout: post
 title: "Первый шаг"
 date: 2013-06-05 22:05
 comments: true
-categories: 
+categories: [Personal] 
 ---
 Сегодня 5 июня 2013 года. И это мой последний рабочий день в Al Digit. 
 

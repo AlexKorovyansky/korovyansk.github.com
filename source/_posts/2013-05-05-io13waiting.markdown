@@ -3,7 +3,7 @@ layout: post
 title: "Ожидания перед I/O"
 date: 2013-05-05 13:01
 comments: true
-categories: [Travels, GDG Omsk]
+categories: [Travels, GDG]
 ---
 
 До старта Google I/O 2013 остается чуть больше недели.

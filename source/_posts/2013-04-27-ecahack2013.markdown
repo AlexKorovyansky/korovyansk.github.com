@@ -3,7 +3,7 @@ layout: post
 title: "EcaHack 2013"
 date: 2013-04-27 21:48
 comments: true
-categories: [Android, EcaHack, GDG, Омск, Стартап, M-Block]
+categories: [GDG, Android, Startups]
 ---
 
 В прошлые выходные (20-21 апреля) я участвовал в [EcaHack Omsk](http://blog.gdgomsk.org/2013/03/omsk-ecahack-2013-android.html).
