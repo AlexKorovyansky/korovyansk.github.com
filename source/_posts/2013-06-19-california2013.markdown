@@ -1,0 +1,54 @@
+---
+layout: post
+title: "California 2013"
+date: 2013-06-19 21:00
+comments: true
+categories: [Travels, GDG]
+---
+В этом году поездка в Калифорнию вышла отличной! Очень помог опыт прошлого года. В первые дни поездки я наслаждался красотами СФ и его окрестностей как турист, а потом как гик, девелопер и GDG-организатор участвовал в мега-клевых IT-событиях, включая те, о которых я [уже писал](http://alexkorovyansky.com/blog/2013/05/05/io13waiting/).
+
+{% img center /images/posts/california2013.jpg Me and Golden Gate %}
+
+<!-- more -->
+
+Cначала я хотел сделать подробный пост про все интересные места, экскурсии и мероприятия, которые мне удалось посетить. Но после недели стараний стало очевидно, что получается пост сразу о слишком многом и писать его до законченной версии придется еще как минимум пару месяцев ☺. Поэтому я решил, что пост кратким. А если кто-то захочет подробней поговорить про поездку, жизнь в Silicon Valley, GDG, стартапы, работу в Google и на любые другие производные темы, то я всегда рад интересному и конкретному живому общению! Мои контакты [тут](http://about.me/korovyansk).
+
+## Где я был и что видел ##
+
+Интересные туристические места и экускурсии:
+
+* [California Academia of Sciences](http://www.calacademy.org/)
+* [Golden Gate Park](http://en.wikipedia.org/wiki/Golden_Gate_Park)
+* [RocketSpace](http://rocket-space.com/)
+* [Exploratorium](http://www.exploratorium.edu/)
+* [Hop On Hop Off Bus Tour, SF](http://www.redandwhite.com/bus-tours/hop-on-hop-off.asp)
+* [Hard Rock Cafe](http://www.hardrock.com/)
+* [California #1](http://en.wikipedia.org/wiki/California_State_Route_1)
+* [Monterey](http://www.monterey.org/)
+* [Bubba Gump](http://www.bubbagump.com/locations/monterey/)
+* [17-Mile Drive](http://en.wikipedia.org/wiki/17-Mile_Drive)
+* [Carmel By-The-Sea](http://www.carmelcalifornia.com/)
+* [GDG Bike Ride in SF](https://plus.google.com/events/ce6vn9efm5pgv6nsc9ofa1qm1pc)
+* [Golden Gate (пешком и на велике)](http://en.wikipedia.org/wiki/Golden_Gate_Bridge)
+
+Мега-клевые организаторские и IT-мероприятия:
+
+* [GDG Summit + After Party](https://sites.google.com/site/gdgorganizersummit/)
+* [Facebook Kickoff Party @ I/O](https://www.facebook.com/events/178316248990890)
+* [Google I/O + AfterParty](https://developers.google.com/events/io/)
+* [Android Hacker Night by Square](http://io-nightcap2013.eventbrite.com/)
+
+## Фото-версия ##
+
+Фоторепортаж с моими комментариями и впечатлениями про все вышепричесленные места можно найти в [моем Instagram-e](http://instagram.com/korovyansk), начиная [от сюда](http://instagram.com/p/ZA4W9ux8gG/).
+
+## Видео-версия ##
+
+А еще мы с Алексеем Зиновьевым выступили на [IT-субботнике](http://vk.com/omskit) и подробно рассказали про поездку и наши впечатления. Всем обязательно смотреть и мотивироваться! Слайды [тут](http://www.slideshare.net/OmskIT/2013-0601-01-google-io).
+
+{% vimeo 67648961 %}
+
+## В заключение ##
+Еще раз хочу пожелать каждому читателю не переставать верить в себя, в свою мечту, в успешность своего любимого дела, а также верить в других людей, особенно любимых, родных, друзей и коллег.
+
+
