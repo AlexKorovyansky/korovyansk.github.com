@@ -23,5 +23,5 @@ categories: [Personal]
 
 И в завершение хотел бы сказать всем ребятам в Al Digit большое спасибо за это время! Хотел поставить какую-нибудь актуальную фотографию, но есть только такая :)
 
-{% img center /images/posts/aldigit.jpg Al Digit %}
+{% img center /images/posts/al_digit.jpg Al Digit %}
 
