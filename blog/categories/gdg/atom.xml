@@ -4,7 +4,7 @@
   <title><![CDATA[Category: GDG | Alex Korovyansky]]></title>
   <link href="http://korovyansk.github.com/blog/categories/gdg/atom.xml" rel="self"/>
   <link href="http://korovyansk.github.com/"/>
-  <updated>2013-06-10T20:58:36+07:00</updated>
+  <updated>2013-06-20T00:00:58+07:00</updated>
   <id>http://korovyansk.github.com/</id>
   <author>
     <name><![CDATA[Алексей Коровянский]]></name>
@@ -12,6 +12,133 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[California 2013]]></title>
+    <link href="http://korovyansk.github.com/blog/2013/06/19/california2013/"/>
+    <updated>2013-06-19T21:00:00+07:00</updated>
+    <id>http://korovyansk.github.com/blog/2013/06/19/california2013</id>
+    <content type="html"><![CDATA[<p>В этом году поездка в Калифорнию вышла отличной! Очень помог опыт прошлого года. В первые дни поездки я наслаждался красотами СФ и его окрестностей как турист, а потом как гик, девелопер и GDG-организатор участвовал в мега-клевых IT-событиях, включая те, о которых я <a href="http://alexkorovyansky.com/blog/2013/05/05/io13waiting/">уже писал</a>.</p>
+
+<p><img class="center" src="/images/posts/california2013.jpg" title="Me and Golden Gate" ></p>
+
+<!-- more -->
+
+
+<p>Cначала я хотел сделать подробный пост про все интересные места, экскурсии и мероприятия, которые мне удалось посетить. Но после недели стараний стало очевидно, что получается пост сразу о слишком многом и писать его до законченной версии придется еще как минимум пару месяцев ☺. Поэтому я решил, что пост кратким. А если кто-то захочет подробней поговорить про поездку, жизнь в Silicon Valley, GDG, стартапы, работу в Google и на любые другие производные темы, то я всегда рад интересному и конкретному живому общению! Мои контакты <a href="http://about.me/korovyansk">тут</a>.</p>
+
+<h2>Где я был и что видел</h2>
+
+<p>Интересные туристические места и экускурсии:</p>
+
+<ul>
+<li><a href="http://www.calacademy.org/">California Academia of Sciences</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Golden_Gate_Park">Golden Gate Park</a></li>
+<li><a href="http://rocket-space.com/">RocketSpace</a></li>
+<li><a href="http://www.exploratorium.edu/">Exploratorium</a></li>
+<li><a href="http://www.redandwhite.com/bus-tours/hop-on-hop-off.asp">Hop On Hop Off Bus Tour, SF</a></li>
+<li><a href="http://www.hardrock.com/">Hard Rock Cafe</a></li>
+<li><a href="http://en.wikipedia.org/wiki/California_State_Route_1">California #1</a></li>
+<li><a href="http://www.monterey.org/">Monterey</a></li>
+<li><a href="http://www.bubbagump.com/locations/monterey/">Bubba Gump</a></li>
+<li><a href="http://en.wikipedia.org/wiki/17-Mile_Drive">17-Mile Drive</a></li>
+<li><a href="http://www.carmelcalifornia.com/">Carmel By-The-Sea</a></li>
+<li><a href="https://plus.google.com/events/ce6vn9efm5pgv6nsc9ofa1qm1pc">GDG Bike Ride in SF</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Golden_Gate_Bridge">Golden Gate (пешком и на велике)</a></li>
+</ul>
+
+
+<p>Мега-клевые организаторские и IT-мероприятия:</p>
+
+<ul>
+<li><a href="https://sites.google.com/site/gdgorganizersummit/">GDG Summit + After Party</a></li>
+<li><a href="https://www.facebook.com/events/178316248990890">Facebook Kickoff Party @ I/O</a></li>
+<li><a href="https://developers.google.com/events/io/">Google I/O + AfterParty</a></li>
+<li><a href="http://io-nightcap2013.eventbrite.com/">Android Hacker Night by Square</a></li>
+</ul>
+
+
+<h2>Фото-версия</h2>
+
+<p>Фоторепортаж с моими комментариями и впечатлениями про все вышепричесленные места можно найти в <a href="http://instagram.com/korovyansk">моем Instagram-e</a>, начиная <a href="http://instagram.com/p/ZA4W9ux8gG/">от сюда</a>.</p>
+
+<h2>Видео-версия</h2>
+
+<p>А еще мы с Алексеем Зиновьевым выступили на <a href="http://vk.com/omskit">IT-субботнике</a> и подробно рассказали про поездку и наши впечатления. Всем обязательно смотреть и мотивироваться! Слайды <a href="http://www.slideshare.net/OmskIT/2013-0601-01-google-io">тут</a>.</p>
+
+<p><div class="embed-video-container"><iframe src="http://player.vimeo.com/video/67648961 "></iframe></div></p>
+
+<h2>В заключение</h2>
+
+<p>Еще раз хочу пожелать каждому читателю не переставать верить в себя, в свою мечту, в успешность своего любимого дела, а также верить в других людей, особенно любимых, родных, друзей и коллег.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Ожидания перед I/O]]></title>
+    <link href="http://korovyansk.github.com/blog/2013/05/05/io13waiting/"/>
+    <updated>2013-05-05T13:01:00+07:00</updated>
+    <id>http://korovyansk.github.com/blog/2013/05/05/io13waiting</id>
+    <content type="html"><![CDATA[<p>До старта Google I/O 2013 остается чуть больше недели.</p>
+
+<p>Уже завтра я вылетаю в Сан-Франциско!!!</p>
+
+<p><img class="center" src="/images/posts/google-io.jpg" title="Google I&#47;O 2013" ></p>
+
+<p>Это вторая моя поездка в Калифорнию, поэтому в этом году все как-то проще и понятней: понимаю куда еду, зачем еду, чего стоит ожидать, а чего не очень.</p>
+
+<p>В этом посте как раз про ожидания, точнее про самые ожидаемые события.</p>
+
+<!-- more -->
+
+
+<h2>1. GDG Summit</h2>
+
+<p><a href="https://plus.google.com/events/c6urrpcdcqagjfdpkj1vnn7t0ik">13, 14 Мая. Google Plex, Mountain View.</a></p>
+
+<p>Мега-тусовка GDG-организаторов со всего мира. На саммите обсуждаются идеи дальнейшего развития GDG коммьюнити, происходит непрерывный обмен опытом, много возможностей для неформального общения.</p>
+
+<p>В том году организация мероприятия была на отличном уровне — условия, формат, питание, подарки — все было на высоте! А еще было очень классное After Party после саммита.</p>
+
+<p>Очень интересно пообщаться с проактивными и успешными GDG-организаторами со всего мира. Прикольно, когда находишь общие интересы с человеком с другой стороны Земли, когда в таком общении легко рождаются крутые идеи, которые потом становятся реальностью.</p>
+
+<p>Кстати, идеями с прошлого саммита были DevFest-ы и городские проекты.</p>
+
+<p>В общем, очень жду GDG Summit 2013!</p>
+
+<h2>2. Google I/O</h2>
+
+<p><a href="https://developers.google.com/events/io/">15, 16, 17 Мая. Moscone Center West, San Francisco.</a></p>
+
+<p>Все знают, что такое Google I/O и насколько это крутая конференция. Это то IT-событие, на которое я раньше мог только <a href="/blog/2013/04/15/california-beginning/">мечтать</a> попасть.</p>
+
+<p>В этом году запланировано какое-то невероятное количество докладов, Code Labs и Office Hours. Думаю, будет очень круто и очень масштабно! Конечно, очень жду.</p>
+
+<h2>3. Android Hacker Night</h2>
+
+<p><a href="http://androidnight.eventbrite.com/">16 Мая. San Francisco.</a></p>
+
+<p>Конечно, я рассматриваю поездку не только как время для улетных развлечений, классного общения и путешествий, но и как отличную возможность для профессионального роста. Очень интересно послушать некоторые доклады по Android на I/O, пообщаться на Office Hours, но еще больше мне хочется побывать на Android Hacker Night.</p>
+
+<p>Почему? Как такое может быть?</p>
+
+<p>Потому что это событие организуют очень крутые ребята из Square (в частности, <a href="https://plus.google.com/108284392618554783657/posts">Jake Wharton</a>). Эти люди в своей повседневной жизни делают один из самых успешных на данный момент стартапов в Долине, и по ходу еще успевают контрибьютить обалденный Open Source для Android (Actionbar Sherlock, Otto, Dagger, Tape, Robolectric и другие).</p>
+
+<p>Более того, заявляется очень актуальная и нетривиальная тема — How to Code for Simplicity and Testability. Более подробно можно прочитать <a href="http://androidnight.eventbrite.com/">тут</a>.</p>
+
+<p>Я очень рад, что успел урвать билет. Жду этот ивент чуть ли не больше, чем доклады и Code Labs по Android на Google I/O.</p>
+
+<h2>А также</h2>
+
+<p>GDG Summit, Google I/O и Android Hacker Night — это мой top3 ожиданий на данный момент. Хотя этот выбор не так-то прост, например, есть еще классные ивенты про Google Glass, взрывной Android-ивент от Facebook, GDG-велопокатушки по SF и многое другое...</p>
+
+<p>В какой-то момент я понял, что уже запутался в количестве интересных ивентов, которые проходят в эпсилон-окресности I/O. Поэтому собрал их все в отдельный <a href="http://goo.gl/10sRg">Google Calendar</a>. На данный момент, в календаре 33 ивента на одну неделю, и думаю, что это еще не все.</p>
+
+<p>Эх нам бы так жить :) Ну да ладно, у нас в Омске сейчас тоже хорошая динамика!</p>
+
+<p><strong>P.S.</strong> Настроение перед поездкой <a href="http://youtu.be/wq-S8CIU7VA">вот такое</a> :)</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[EcaHack 2013]]></title>
