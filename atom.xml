@@ -4,7 +4,7 @@
   <title><![CDATA[Alex Korovyansky]]></title>
   <link href="http://korovyansk.github.com/atom.xml" rel="self"/>
   <link href="http://korovyansk.github.com/"/>
-  <updated>2013-06-20T11:17:38+07:00</updated>
+  <updated>2013-06-20T14:41:00+07:00</updated>
   <id>http://korovyansk.github.com/</id>
   <author>
     <name><![CDATA[Алексей Коровянский]]></name>
@@ -14,10 +14,13 @@
 
   
   <entry>
+    
     <title type="html"><![CDATA[California 2013]]></title>
     <link href="http://korovyansk.github.com/blog/2013/06/19/california2013/"/>
+    
     <updated>2013-06-19T21:00:00+07:00</updated>
     <id>http://korovyansk.github.com/blog/2013/06/19/california2013</id>
+    
     <content type="html"><![CDATA[<p>В этом году поездка в Калифорнию вышла отличной! Очень помог опыт прошлого года. В первые дни поездки я наслаждался красотами СФ и его окрестностей как турист, а потом как гик, девелопер и GDG-организатор участвовал в мега-клевых IT-событиях, включая те, о которых я <a href="http://alexkorovyansky.com/blog/2013/05/05/io13waiting/">уже писал</a>.</p>
 
 <p><img class="center" src="http://korovyansk.github.com/images/posts/california2013.jpg" title="Me and Golden Gate" ></p>
@@ -73,13 +76,17 @@
 
 <p>Еще раз хочу пожелать каждому читателю не переставать верить в себя, в свою мечту, в успешность своего любимого дела, а также верить в других людей, особенно любимых, родных, друзей и коллег.</p>
 ]]></content>
+    
   </entry>
   
   <entry>
+    
     <title type="html"><![CDATA[Первый шаг]]></title>
     <link href="http://korovyansk.github.com/blog/2013/06/05/first-step/"/>
+    
     <updated>2013-06-05T22:05:00+07:00</updated>
     <id>http://korovyansk.github.com/blog/2013/06/05/first-step</id>
+    
     <content type="html"><![CDATA[<p>Сегодня 5 июня 2013 года. И это мой последний рабочий день в Al Digit.</p>
 
 <p>Эта компания стала моим первым официальным местом работы, я устроился туда сразу после Университета в августе 2010 года. Тогда в компании работало 5 человек, и мы сидели в маленьком офисе во Флагмане&#8230;</p>
@@ -101,13 +108,17 @@
 
 <p><img class="center" src="http://korovyansk.github.com/images/posts/al_digit.jpg" title="Al Digit" ></p>
 ]]></content>
+    
   </entry>
   
   <entry>
+    
     <title type="html"><![CDATA[Ожидания перед I/O]]></title>
     <link href="http://korovyansk.github.com/blog/2013/05/05/io13waiting/"/>
+    
     <updated>2013-05-05T13:01:00+07:00</updated>
     <id>http://korovyansk.github.com/blog/2013/05/05/io13waiting</id>
+    
     <content type="html"><![CDATA[<p>До старта Google I/O 2013 остается чуть больше недели.</p>
 
 <p>Уже завтра я вылетаю в Сан-Франциско!!!</p>
@@ -167,13 +178,17 @@
 
 <p><strong>P.S.</strong> Настроение перед поездкой <a href="http://youtu.be/wq-S8CIU7VA">вот такое</a> :)</p>
 ]]></content>
+    
   </entry>
   
   <entry>
+    
     <title type="html"><![CDATA[EcaHack 2013]]></title>
     <link href="http://korovyansk.github.com/blog/2013/04/27/ecahack2013/"/>
+    
     <updated>2013-04-27T21:48:00+07:00</updated>
     <id>http://korovyansk.github.com/blog/2013/04/27/ecahack2013</id>
+    
     <content type="html"><![CDATA[<p>В прошлые выходные (20-21 апреля) я участвовал в <a href="http://blog.gdgomsk.org/2013/03/omsk-ecahack-2013-android.html">EcaHack Omsk</a>.</p>
 
 <p><img class="center" src="http://korovyansk.github.com/images/posts/IMG_17800.jpg" title="EcaHack - Наша команда M-Block: Костя, я, Паша" ></p>
@@ -197,13 +212,17 @@
 
 <p><strong>P.S.</strong> Кстати, мы заняли второе место, но это не очень важно. Официальные итоги хакатона можно прочитать <a href="http://blog.gdgomsk.org/2013/04/summary-of-ecahack-omsk-2013.html">тут</a>.</p>
 ]]></content>
+    
   </entry>
   
   <entry>
+    
     <title type="html"><![CDATA[Одна мечта]]></title>
     <link href="http://korovyansk.github.com/blog/2013/04/15/california-beginning/"/>
+    
     <updated>2013-04-15T00:25:00+07:00</updated>
     <id>http://korovyansk.github.com/blog/2013/04/15/california-beginning</id>
+    
     <content type="html"><![CDATA[<p>Я всегда хотел побывать в Калифорнии и Кремниевой долине! Когда учился в университете, думал как было бы круто туда попасть, но абсолютно не представлял, как это может случиться. У меня даже не было никаких серьезных предположений — просто мечта, и все.</p>
 
 <p><img class="center" src="http://korovyansk.github.com/images/posts/1280px-AlumRockViewSiliconValley_w.jpg" title="Кремниевая долина" ></p>
@@ -261,6 +280,7 @@
 
 <p><strong>P.P.S.</strong> Во многих делах начало — это очень важный и определяющий момент, именно в такие моменты, особенно ценна поддержка. Хочу сказать большое спасибо всем, кто верил в меня, поддерживал и был вместе со мной на этом пути!</p>
 ]]></content>
+    
   </entry>
   
 </feed>
