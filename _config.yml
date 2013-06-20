@@ -6,7 +6,7 @@ url: http://korovyansk.github.com
 title: "Alex Korovyansky"
 subtitle: "Мои заметки на A4"
 author: Алексей Коровянский
-simple_search: http://google.com/search
+#simple_search: http://google.com/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
