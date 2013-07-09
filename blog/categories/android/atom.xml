@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Android | Alex Korovyansky]]></title>
   <link href="http://korovyansk.github.com/blog/categories/android/atom.xml" rel="self"/>
   <link href="http://korovyansk.github.com/"/>
-  <updated>2013-07-09T20:49:17+07:00</updated>
+  <updated>2013-07-09T22:22:50+07:00</updated>
   <id>http://korovyansk.github.com/</id>
   <author>
     <name><![CDATA[Алексей Коровянский]]></name>
@@ -12,6 +12,45 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Мой Top15 Android-докладов с I/O 2013]]></title>
+    <link href="http://korovyansk.github.com/blog/2013/07/09/io13-android-top15/"/>
+    <updated>2013-07-09T20:51:00+07:00</updated>
+    <id>http://korovyansk.github.com/blog/2013/07/09/io13-android-top15</id>
+    <content type="html"><![CDATA[<p>В этом году на I/O в секции Android было аж 35 докладов! Я могу с гордостью сказать, что посмотрел все! Малую часть в живую — и большую в записи. Многие доклады действительно стоило посмотреть, хотя попадались и скучно-нелепые доклады.</p>
+
+<p><img class="center" src="/images/posts/android_io13.jpg" title="Best Android talks on IO 2013" ></p>
+
+<p>Для всех неравнодушных к разработке под Android публикую список из 15 наиболее понравившихся мне докладов.</p>
+
+<!-- more -->
+
+
+<ol>
+<li><a href="https://developers.google.com/events/io/sessions/324603352">What's New in Android Developer Tools</a></li>
+<li><a href="https://developers.google.com/events/io/sessions/324498944">What's New in Google Play Services</a></li>
+<li><a href="https://developers.google.com/events/io/sessions/326455375">What’s new for Developers in Google Play</a></li>
+<li><a href="https://developers.google.com/events/io/sessions/326301704">Structure in Android App Design</a></li>
+<li><a href="https://developers.google.com/events/io/sessions/326368573">Enchant, Simplify, Amaze: Android's Design Principles</a></li>
+<li><a href="https://developers.google.com/events/io/sessions/326454327">Android Protips: Making Apps Work Like Magic</a></li>
+<li><a href="https://developers.google.com/events/io/sessions/325304728">Volley: Easy, Fast Networking for Android</a></li>
+<li><a href="https://developers.google.com/events/io/sessions/326425499">Fireside Chat with the Android Team</a></li>
+<li><a href="https://developers.google.com/events/io/sessions/325236644">The New Android SDK Build System</a></li>
+<li><a href="https://developers.google.com/events/io/sessions/324958374">In-App Billing Version 3</a></li>
+<li><a href="https://developers.google.com/events/io/sessions/324893448">Google Cloud Messaging</a></li>
+<li><a href="https://developers.google.com/events/io/sessions/326431311">A Moving Experience</a></li>
+<li><a href="https://developers.google.com/events/io/sessions/325345389">Mobile Multiplayer Made Manageable</a></li>
+<li><a href="https://developers.google.com/events/io/sessions/325418001">Android Graphics Performance</a></li>
+<li><a href="https://developers.google.com/events/io/sessions/333508149">From Nothing to Nirvana in Minutes: Cloud Backend for Your Android Application</a></li>
+</ol>
+
+
+<p>Все 15 докладов на отличном уровне, все на разные и актуальные темы. Отдельно хотелось бы отметить (7) и (9) за понимание практических проблем разработчиков. И еще вот <a href="https://plus.google.com/+BrunoOliveira/posts">этого парня</a>, его подача материала порадовала и запомнилась. Возможно это будущая звезда Android Team ☺</p>
+
+<p>Удачного просмотра!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[EcaHack 2013]]></title>
