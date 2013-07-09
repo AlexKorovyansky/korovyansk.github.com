@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Мой Top15 Android-докладов с I/O 2013"
+date: 2013-07-09 20:51
+comments: true
+categories: Android
+---
+В этом году на I/O в секции Android было аж 35 докладов! Я могу с гордостью сказать, что посмотрел все! Малую часть в живую — и большую в записи. Многие доклады действительно стоило посмотреть, хотя попадались и скучно-нелепые доклады.
+
+{% img center /images/posts/android_io13.jpg Best Android talks on IO 2013 %}
+
+Для всех неравнодушных к разработке под Android публикую список из 15 наиболее понравившихся мне докладов.
+
+<!-- more -->
+
+1.  [What's New in Android Developer Tools](https://developers.google.com/events/io/sessions/324603352)
+2.  [What's New in Google Play Services](https://developers.google.com/events/io/sessions/324498944)
+3.  [What’s new for Developers in Google Play](https://developers.google.com/events/io/sessions/326455375)
+4.  [Structure in Android App Design](https://developers.google.com/events/io/sessions/326301704)
+5.  [Enchant, Simplify, Amaze: Android's Design Principles](https://developers.google.com/events/io/sessions/326368573)
+6.  [Android Protips: Making Apps Work Like Magic](https://developers.google.com/events/io/sessions/326454327)
+7.  [Volley: Easy, Fast Networking for Android](https://developers.google.com/events/io/sessions/325304728)
+8.  [Fireside Chat with the Android Team](https://developers.google.com/events/io/sessions/326425499)
+9.  [The New Android SDK Build System](https://developers.google.com/events/io/sessions/325236644)
+10. [In-App Billing Version 3](https://developers.google.com/events/io/sessions/324958374)
+11. [Google Cloud Messaging](https://developers.google.com/events/io/sessions/324893448)
+12. [A Moving Experience](https://developers.google.com/events/io/sessions/326431311)
+13. [Mobile Multiplayer Made Manageable](https://developers.google.com/events/io/sessions/325345389)
+14. [Android Graphics Performance](https://developers.google.com/events/io/sessions/325418001)
+15. [From Nothing to Nirvana in Minutes: Cloud Backend for Your Android Application](https://developers.google.com/events/io/sessions/333508149)
+
+Все 15 докладов на отличном уровне, все на разные и актуальные темы. Отдельно хотелось бы отметить (7) и (9) за понимание практических проблем разработчиков. И еще вот [этого парня](https://plus.google.com/+BrunoOliveira/posts), его подача материала порадовала и запомнилась. Возможно это будущая звезда Android Team ☺
+
+Удачного просмотра!
+
+
+
