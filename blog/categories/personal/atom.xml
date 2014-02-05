@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Personal | Alex Korovyansky]]></title>
   <link href="http://korovyansk.github.com/blog/categories/personal/atom.xml" rel="self"/>
   <link href="http://korovyansk.github.com/"/>
-  <updated>2013-07-09T22:22:50+07:00</updated>
+  <updated>2014-02-05T15:52:40+07:00</updated>
   <id>http://korovyansk.github.com/</id>
   <author>
     <name><![CDATA[Алексей Коровянский]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Эффективная тишина]]></title>
+    <link href="http://korovyansk.github.com/blog/2014/02/04/silence/"/>
+    <updated>2014-02-04T15:20:00+07:00</updated>
+    <id>http://korovyansk.github.com/blog/2014/02/04/silence</id>
+    <content type="html"><![CDATA[<p>Я уже 30 недель ничего не писал в блог. Хотя новостей хватило бы на 1000 постов! На это есть весомые причины, но не о них сейчас.</p>
+
+<p>На <a href="http://www.gdgomsk.org/gdg-devfest-2013">GDG DevFest Omsk 2013</a> я рассказывал про магически-эффективную разработку Android приложений. Я хотел бы, чтобы этот доклад посмотрел каждый программист потому, что именно в эффективности, на мой взгляд, и спрятан самый нетривиальный ключ к настоящему профессиональному успеху.</p>
+
+<p><div class="embed-video-container"><iframe src="http://www.youtube.com/embed/Ep2ncFQY6og "></iframe></div></p>
+
+<p><strong>P.S.</strong> Сейчас для меня задача №1 — это защита диссертации в сентябре 2014 года.</p>
+
+<p><strong>P.P.S.</strong> Я мало пишу в блог, но очень активен <a href="https://vk.com/korovyansk">ВКонтакте</a>, <a href="http://twitter.com/korovyansk">Twitter</a> и <a href="http://plus.google.com/+AlexKorovyansky">G+</a>. Буду рад увидеть новых участников дискуссий!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Первый шаг]]></title>
